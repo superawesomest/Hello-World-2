@@ -1,7 +1,6 @@
 
 print("Hello World")
-print("Hello People")
-
-
+print("Hello World, by Vedanta")
+print("Hello people")
 
 
