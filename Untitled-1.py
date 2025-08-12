@@ -1,2 +1,7 @@
-print("please say hello")
+
+print("Hello World")
+print("Hello People")
+
+
+
 
